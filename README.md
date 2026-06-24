@@ -25,8 +25,8 @@ Google Play Store listing, as required by Google Play policy.
 
 ### Live links
 
-- Privacy Policy: `https://abhinavbansal1910.github.io/soorya-ai-legal/privacy-policy.html`
-- Terms of Service: `https://abhinavbansal1910.github.io/soorya-ai-legal/terms-of-service.html`
+- Privacy Policy: [`https://abhinavbansal1910.github.io/soorya-ai-legal/privacy-policy.html`](https://abhinavbansal1910.github.io/soorya-ai-legal/privacy-policy.html)
+- Terms of Service: [`https://abhinavbansal1910.github.io/soorya-ai-legal/terms-of-service.html`](https://abhinavbansal1910.github.io/soorya-ai-legal/terms-of-service.html)
 
 ## Owner & contact
 
