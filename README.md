@@ -27,8 +27,8 @@ Google Play Store listing, as required by Google Play policy.
 
 Once GitHub Pages is enabled (Settings → Pages → Deploy from branch → `main` → `/root`):
 
-- Privacy Policy: `https://abhinavbansal1910.github.io/<this-repo>/privacy-policy.html`
-- Terms of Service: `https://abhinavbansal1910.github.io/<this-repo>/terms-of-service.html`
+- Privacy Policy: [`https://abhinavbansal1910.github.io/soorya-ai-legal/privacy-policy.html`](https://abhinavbansal1910.github.io/soorya-ai-legal/privacy-policy.html`)
+- Terms of Service: [`https://abhinavbansal1910.github.io/soorya-ai-legal/terms-of-service.html`](https://abhinavbansal1910.github.io/soorya-ai-legal/terms-of-service.html)
 
 > Replace `<this-repo>` with this repository's name. The application source code
 > lives in a separate, private repository.
