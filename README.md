@@ -19,17 +19,16 @@ Play Store.
 |------|---------|
 | [`privacy-policy.html`](privacy-policy.html) | How SOORYA AI collects, uses, and protects your data |
 | [`terms-of-service.html`](terms-of-service.html) | The terms governing use of the app |
+| [`delete-account.html`](delete-account.html) | How to delete your account and associated data |
 
 These pages are published with **GitHub Pages** and linked from the SOORYA AI
 Google Play Store listing, as required by Google Play policy.
 
 ### Live links
 
-Once GitHub Pages is enabled (Settings → Pages → Deploy from branch → `main` → `/root`):
-
 - Privacy Policy: [`https://abhinavbansal1910.github.io/soorya-ai-legal/privacy-policy.html`](https://abhinavbansal1910.github.io/soorya-ai-legal/privacy-policy.html)
 - Terms of Service: [`https://abhinavbansal1910.github.io/soorya-ai-legal/terms-of-service.html`](https://abhinavbansal1910.github.io/soorya-ai-legal/terms-of-service.html)
-
+- Delete Account: [`https://abhinavbansal1910.github.io/soorya-ai-legal/delete-account.html`](https://abhinavbansal1910.github.io/soorya-ai-legal/delete-account.html)
 
 ## Owner & contact
 
@@ -37,7 +36,7 @@ SOORYA AI is an independent app operated by **Abhinav Bansal**, an individual
 based in India. There is no registered company or business entity behind the app.
 
 For any questions about these documents or your data:
-**sooryaai.in@gmail.com**
+**support@sooryaai.in**
 
 ---
 
